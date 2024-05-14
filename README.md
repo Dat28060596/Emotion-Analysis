@@ -22,7 +22,7 @@ This project performs real-time emotion analysis on live camera feed using DeepF
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/real-time-emotion-analysis.git
+   git clone https://github.com/Dat28060596/Emotion-Analysis
    ```
 
 2. Install the required Python packages:
