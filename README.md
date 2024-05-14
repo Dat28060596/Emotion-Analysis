@@ -1,5 +1,3 @@
-Absolutely! Here's a README.md template tailored to your real-time emotion analysis project:
-
 ---
 
 # Real-Time Emotion Analysis with DeepFace
